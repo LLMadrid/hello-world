@@ -27,6 +27,13 @@ My journey blends 2+ years of financial experience with hands-on technical train
 - Threat analysis and incident response
 - TryHackMe Pre-Security Path (active)
 
+   ## 🧠 Cybersecurity Training Progress
+
+- ✅ TryHackMe Pre-Security Path (In Progress)
+- ✅ Offensive Security Intro – Completed 10/30/25
+- ✅ Defensive Security Intro – Completed 10/30/25
+- 🎯 CompTIA Security+ – Studying begins December 2025
+
 ---
 
 ## 🧪 Real-World Scenarios
@@ -54,5 +61,4 @@ Thanks for visiting my profile! I'm excited to grow, learn, and contribute to th
 
 
 ![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LLMadrid&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LLMadrid&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLMadrid&layout=compact&theme=radical)
+
