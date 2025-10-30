@@ -32,7 +32,7 @@ My journey blends 2+ years of financial experience with hands-on technical train
 ## 🧪 Real-World Scenarios
 
 - 🕵️‍♂️ Intercepted a live social engineering scam targeting a customer, uncovering a coordinated fraud ring
-- 💬 Prevented a $12,000 cash withdrawal scam by identifying inconsistencies and confirming scam activity
+- 💬 Prevented large cash withdrawal scam by identifying inconsistencies and confirming scam activity
 - 🔐 Detected and stopped an account takeover by coordinating with internal teams and resetting credentials
 
 ---
