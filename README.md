@@ -54,3 +54,5 @@ Thanks for visiting my profile! I'm excited to grow, learn, and contribute to th
 
 
 ![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LLMadrid&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LLMadrid&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LLMadrid&layout=compact&theme=radical)
