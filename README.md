@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Luis (or Lou)
+# 👋 Hi, I'm Luis
 
 I'm a Relationship Banker transitioning into cybersecurity, with a strong foundation in compliance, risk management, and fraud detection. 
 My journey blends 2+ years of financial experience with hands-on technical training in cybersecurity fundamentals.
