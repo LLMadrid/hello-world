@@ -51,3 +51,6 @@ My journey blends 2+ years of financial experience with hands-on technical train
 ---
 
 Thanks for visiting my profile! I'm excited to grow, learn, and contribute to the cybersecurity community.
+
+
+![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LLMadrid&show_icons=true&theme=radical)
